@@ -4,11 +4,14 @@ LAWGIC is a modular, multilingual AI-powered legal assistant tailored for the In
 
 Whether you're reading a lease agreement, seeking clarity on IPC sections, or looking for a lawyer nearby, LAWGIC simplifies the experience using natural language, multimodal input, and smart semantic retrieval.
 
-✅ Real-World Relevance: LAWGIC addresses critical gaps in the Indian legal system—especially the inaccessibility of legal knowledge to the common citizen, language barriers, and lack of structured legal search. It's built to support real use cases like contract review, case law navigation, and lawyer discovery.
+###✅ Real-World Relevance: 
+LAWGIC addresses critical gaps in the Indian legal system—especially the inaccessibility of legal knowledge to the common citizen, language barriers, and lack of structured legal search. It's built to support real use cases like contract review, case law navigation, and lawyer discovery.
 
-🧠 Human-in-the-Loop Support: LAWGIC encourages responsible use by integrating optional Human-in-the-Loop workflows, enabling users to consult verified lawyers and validate AI-generated legal insights for sensitive or high-impact scenarios.
+###🧠 Human-in-the-Loop Support: 
+LAWGIC encourages responsible use by integrating optional Human-in-the-Loop workflows, enabling users to consult verified lawyers and validate AI-generated legal insights for sensitive or high-impact scenarios.
 
-🛡️ Responsible AI by Design: LAWGIC follows Responsible AI principles including transparency (retrieval grounding from legal documents), multilingual fairness (support for all major Indian languages), and traceability (explainable outputs with references to legal sources).
+####🛡️ Responsible AI by Design: 
+LAWGIC follows Responsible AI principles including transparency (retrieval grounding from legal documents), multilingual fairness (support for all major Indian languages), and traceability (explainable outputs with references to legal sources).
 
 ---
 
