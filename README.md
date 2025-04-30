@@ -21,8 +21,8 @@ LAWGIC follows Responsible AI principles including:
 ## 📑 Table of Contents
 1. [Key Features](#-key-features)
 2. [Modular Plugins with Semantic Kernel](#-modular-plugins-with-semantic-kernel)
-3. [Architecture Overview](#-Architecture-overview)
-4. [Software Stack](#-software-stack)
+3. [Architecture Overview](#architecture-overview)
+4. [Software Stack](#software-stack)
 5. [Environment Variables](#-environment-variables)
 6. [Setup & Development](#-setup--development)
 7. [Usage Guide](#-usage-guide)
