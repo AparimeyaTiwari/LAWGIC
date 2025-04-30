@@ -1,6 +1,14 @@
 # LAWGIC ⚖️ – AI-Powered Indian Legal Law Agent
 
-LAWGIC is a modular, multilingual AI-powered legal assistant built specifically for the Indian legal ecosystem. Designed with accessibility and clarity, LAWGIC helps users understand, query, and navigate legal documents and laws. Whether you're reading a lease agreement, seeking clarity on IPC sections, or looking for a lawyer nearby, LAWGIC simplifies the experience with natural language and smart retrieval.
+LAWGIC is a modular, multilingual AI-powered legal assistant tailored for the Indian legal ecosystem. Designed with accessibility, clarity, and ethical AI principles in mind, LAWGIC helps users understand, query, and navigate legal documents and laws with ease.
+
+Whether you're reading a lease agreement, seeking clarity on IPC sections, or looking for a lawyer nearby, LAWGIC simplifies the experience using natural language, multimodal input, and smart semantic retrieval.
+
+✅ Real-World Relevance: LAWGIC addresses critical gaps in the Indian legal system—especially the inaccessibility of legal knowledge to the common citizen, language barriers, and lack of structured legal search. It's built to support real use cases like contract review, case law navigation, and lawyer discovery.
+
+🧠 Human-in-the-Loop Support: LAWGIC encourages responsible use by integrating optional Human-in-the-Loop workflows, enabling users to consult verified lawyers and validate AI-generated legal insights for sensitive or high-impact scenarios.
+
+🛡️ Responsible AI by Design: LAWGIC follows Responsible AI principles including transparency (retrieval grounding from legal documents), multilingual fairness (support for all major Indian languages), and traceability (explainable outputs with references to legal sources).
 
 ---
 
@@ -64,6 +72,8 @@ LAWGIC leverages **Semantic Kernel** to orchestrate specialized plugins that wor
 ## 🏗️ Architecture Overview
 
 ![image](https://github.com/user-attachments/assets/a459b063-d9a5-40db-a526-cb99c89a5545)
+*Figure: End-to-end LAWGIC Architecture*
+
 
 ### Input Handling:
 - `Text`, `Image`, and `PDF` inputs → processed using **Azure Computer Vision**.
@@ -204,7 +214,7 @@ chainlit run main.py --port 8000
 
 ---
 
-## 🤝 Demonstration
+## 📽️ Demonstration
 - Link: 
 
 
