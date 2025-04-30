@@ -63,7 +63,7 @@ LAWGIC leverages **Semantic Kernel** to orchestrate specialized plugins that wor
 
 ## 🏗️ Architecture Overview
 
-![image](https://github.com/user-attachments/assets/3bf42f3f-5168-4bee-8c83-ba4ecb1b4369)
+![image](https://github.com/user-attachments/assets/bb4fd786-f178-46e3-b9b4-39d41cd068ae)
 
 ### Input Handling:
 - `Text`, `Image`, and `PDF` inputs → processed using **Azure Computer Vision**.
