@@ -78,6 +78,7 @@ LAWGIC leverages **Semantic Kernel** to orchestrate specialized plugins that wor
 ## 🏗️ Architecture Overview
 
 ![image](https://github.com/user-attachments/assets/a459b063-d9a5-40db-a526-cb99c89a5545)
+
 *Figure: End-to-end LAWGIC Architecture*
 
 
