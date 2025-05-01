@@ -129,20 +129,26 @@ AZURE_SEARCH_INDEX_NAME_1="azureblob-index"
 AZURE_SEARCH_INDEX_NAME_2="azureblob-index-2"
 AZURE_SEARCH_INDEX_NAME_3="azureblob-index-3"
 
-# Azure OpenAI (LLM)
-AZURE_OPENAI_ENDPOINT="https://<your-openai-resource>.openai.azure.com/"
-AZURE_OPENAI_API_KEY="<your-azure-openai-key>"
-AZURE_OPENAI_DEPLOYMENT_NAME="gpt-4o"
-AZURE_OPENAI_API_VERSION="2025-01-01-preview"
+# Azure OpenAI (LLM) -> for LLM 1
+ENDPOINT_URL="https://<your-openai-resource>.openai.azure.com/"
+AZURE_OPENAI_API_KEY_1="<your-azure-openai-key>"
+DEPLOYMENT_NAME="<your model>"
+
 
 # Azure OpenAI (Embeddings)
 EMBEDDING_EP="https://<your-openai-resource>.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2023-05-15"
 KEY="<your-embedding-api-key>"
-EMB_DEPLOY="text-embedding-ada-002"
+EMB_DEPLoy="text-embedding-ada-002"
+
+# Azure OpenAI (LLM) -> for LLM 2
+AZURE_OPENAI_ENDPOINT="https://<your-openai-resource>.openai.azure.com/"
+AZURE_OPENAI_API_KEY="<your-azure-openai-key>"
+AZURE_OPENAI_DEPLOYMENT_NAME="<your deployment name>"
+AZURE_OPENAI_API_VERSION="<your api version"
 
 # Azure Translator
 TRANSLATOR_KEY="<your-translator-key>"
-TRANSLATOR_REGION="centralindia"
+TRANSLATOR_REGION="<your region"
 TRANSLATOR_ENDPOINT="https://api.cognitive.microsofttranslator.com/"
 
 # Google Maps API
@@ -154,6 +160,9 @@ OAUTH_GOOGLE_CLIENT_ID="<your-google-client-id>"
 OAUTH_GOOGLE_CLIENT_SECRET="<your-google-client-secret>"
 CHAINLIT_URL="http://localhost:8000"
 
+#OCR keys
+VISION_KEY = "<your_vision_key">
+VISION_ENDPOINT = "<your_vision_endpoint">
 # Optional: Plugin Info Token
 PINFO_TOKEN="<your-plugin-info-token>"
 
